@@ -1,0 +1,24 @@
+;NWS 8 bit velocity curve (derived from ppt) 
+
+product: BV
+Scale: 2.23694 ; m/s into mph
+Units: MPH 
+
+RF: 128 0 208 ; Range Folding
+
+color: 140 255 255 0 
+color: 100 255 96 0 
+color: 80 255 196 255 
+color: 58 255 0 144 
+color: 56 255 0 128 
+color: 45 255 0 0 
+color: 12 112 0 0 
+color: 0 144 128 144 
+color: -1 112 128 112 
+color: -12 16 96 16 
+color: -45 0 255 0 
+color: -56 160 255 208 
+color: -58 160 255 208 
+color: -80 0 224 255 
+color: -100 0 0 160 
+color: -140 255 0 128

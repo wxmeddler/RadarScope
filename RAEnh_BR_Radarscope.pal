@@ -1,0 +1,29 @@
+; Made by James Hyde - Twitter: @wxmeddler for use in Gibson Ridge Software Version 2
+; Any question/comments can be sent to wxmeddler@gmail.com or DM on twitter.
+; This Gibson Ridge v2 Color Table by James Hyde is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+; Please refrain from removing these comments :)
+
+Product: BR
+Units: DBZ
+Step: 5
+
+Color4: 0 0 0 0 0
+Color4: 5 1 61 116 150
+Color4: 10 31 143 193 225
+Color: 15 95 231 129 
+Color: 20 0 188 89 
+Color: 25 0 184 0
+Color: 34 0 130 0 
+Color: 38 0 90 0 
+Color: 41 250 250 20 
+Color: 44 250 204 20
+Color: 47 250 153 20
+Color: 49 250 79 20
+Color: 53 250 0 20 
+Color: 56 210 35 85 
+Color: 60 170 30 150 
+Color: 65 255 0 156 
+Color: 70 246 135 254 
+Color: 75 255 255 255
+
+ND: 0 0 0

@@ -1,0 +1,11 @@
+Product: SW
+Scale: 1.9438 ; convert m/s into kts
+Units: KTS
+
+Color: 0 0 128 255
+Color: 0.1 20 5 72
+Color: 3 84 38 178
+Color: 6.7 188 55 120
+Color: 12 251 126 33  255 255 0
+Color: 19 255 255 255  192 192 192 
+Color: 30 255 0 0

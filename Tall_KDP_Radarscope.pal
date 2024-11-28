@@ -1,0 +1,16 @@
+; Made by James Hyde - Twitter: @wxmeddler for use in Radarscope
+; Any question/comments can be sent to wxmeddler@gmail.com or DM on twitter.
+; This Radarscope Color Table by James Hyde is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+; Please refrain from removing these comments :)
+
+Product: KDP
+Units: DEG/KM
+
+SolidColor:   7.0   200    0  200
+Color:        5.0   170   20   20	 255  205  130
+Color:        4.0   255  255    0    255  120   20
+Color:        2.0    15  150   40	  10  255   10
+Color:        1.0    98  255  250     65  170  168
+Color:       -0.5    23   23  128     71  194  235
+SolidColor:  -1.0    75   75   75
+SolidColor:  -2.0   118  118  118

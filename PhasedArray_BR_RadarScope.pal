@@ -1,0 +1,15 @@
+; "Phased Array" Color Table for RadarScope
+
+units: dBZ  
+product:BR
+
+color: -10   30  30  30   99  99  99
+color:   0  120 120 120  160 160 160
+color:  20   51 204 255    1  64 245
+color:  30    0 127   0   10 255  10
+color:  40  254 252   0  198  85   9
+color:  50  253   0   0  128   0   0
+color:  60  140   1 139  254  51 204
+color:  70  255 101 215  255 155 230
+color:  80  255 255 255    0   0   0  
+color:  95    0   0   0
